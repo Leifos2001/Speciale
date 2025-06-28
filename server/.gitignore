@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Database
+notes.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
