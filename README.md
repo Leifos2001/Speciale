@@ -8,9 +8,8 @@ Dette projekt er en prototype af et nyt element i værktøjet PlaNet, som kan h�
 
 ### Fagpersonens Perspektiv
 - **Egne noter**: Fagpersonen kan oprette, redigere og administrere deres egne noter
-- **Borgernes noter**: Fagpersonen kan se noter tilhørende deres borgere
+- **Borgernes noter**: Fagpersonen kan se og redigere og oprette noter tilhørende deres borgere
 - **Deling af noter**: Fagpersonen kan dele noter til deres borgere
-- **Opgaver og lister**: Håndtering af todo-lister og opgaver uden tidsbegrænsninger
 
 ### Hardkodede Brugere
 I prototypen er der implementeret tre hardkodede brugere:
@@ -91,4 +90,4 @@ Koden er udviklet til at blive sat op på en server. Backend serveren kan deploy
 
 ##Formål
 
-Dette projekt er udviklet som en prototype som ilustere hvordan et nyt element til  PlaNet værktøjet, kan se ud og indholde.
+Dette projekt er udviklet som en prototype som illustrere hvordan et nyt element til  PlaNet værktøjet, kan se ud og indholde.
