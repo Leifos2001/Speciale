@@ -4,6 +4,10 @@
 
 Dette projekt er en prototype af et nyt element i værktøjet PlaNet, som kan håndtere opgaver, noter og lister uden et tidspunkt. Prototypen er udviklet fra en fagpersons synsvinkel og demonstrerer hvordan fagpersoner kan administrere deres egne noter samt se og dele noter med deres borgere.
 
+## Formål
+
+Dette projekt er udviklet som en prototype som illustrere hvordan et nyt element til PlaNet værktøjet, kan se ud og hvad det skal indholde.
+
 ## Funktioner
 
 ### Fagpersonens Perspektiv
@@ -34,9 +38,7 @@ I prototypen er der implementeret tre hardkodede brugere:
 - **CORS** understøttelse
 
 ### Database Struktur
-- **Notes tabel**: Aktive noter for alle brugere
 - **Checked Notes tabel**: Afsluttede/afkrydsede noter
-- **User-baseret filtrering**: Hver note tilhører en specifik bruger
 
 ## Installation
 
@@ -88,6 +90,3 @@ Koden er udviklet til at blive sat op på en server. Backend serveren kan deploy
 4. Start server med `npm start`
 
 
-##Formål
-
-Dette projekt er udviklet som en prototype som illustrere hvordan et nyt element til  PlaNet værktøjet, kan se ud og indholde.
