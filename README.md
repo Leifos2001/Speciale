@@ -83,7 +83,7 @@ npm run dev
 
 Koden er udviklet til at blive sat op på en server. Backend serveren kan deployes på enhver Node.js hosting platform
 
-### Produktions Setup
+### server/hjemmeside Setup
 1. Konfigurer miljøvariabler
 2. Sæt database op (SQLite eller PostgreSQL)
 3. Konfigurer CORS for frontend domæne
