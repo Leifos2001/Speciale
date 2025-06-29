@@ -39,6 +39,7 @@ I prototypen er der implementeret tre hardkodede brugere:
 
 ### Database Struktur
 - **Checked Notes tabel**: Afsluttede/afkrydsede noter
+-  **unChecked Notes tabel**: Uafkrydsede noter
 
 ## Installation
 
